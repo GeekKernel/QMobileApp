@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/App.qml</file>
+        <file>qml/qtquickcontrols2.conf</file>
+        <file>qml/main.qml</file>
+    </qresource>
+</RCC>
